@@ -3,12 +3,7 @@ Nebula Data Platform 🚀
 An Open-Source, Production-Ready Data Platform for Modern Enterprises
 Think "Databricks meets AWS DataZone" - but open source and cost-optimized
 
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/AWS-100%2525-orange?logo=amazonaws
-https://img.shields.io/badge/Terraform-Infrastructure-blue?logo=terraform
-https://img.shields.io/badge/Kubernetes-Yes-blue?logo=kubernetes
-https://img.shields.io/badge/Apache-Iceberg-blue
-🌟 Why Nebula Exists
+
 
 Modern data platforms are either:
 
