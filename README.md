@@ -12,6 +12,8 @@ https://img.shields.io/badge/Apache-Iceberg-blue
 
 Modern data platforms are either:
 
+    Lets try
+
     Too expensive (Databricks, Snowflake - $2M+/year)
 
     Too complex (DIY with 20+ tools that don't integrate)
