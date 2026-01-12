@@ -7,6 +7,8 @@ Think "Databricks meets AWS DataZone" - but open source and cost-optimized
 
 Modern data platforms are either:
 
+    added amit edited date
+
     Too expensive (Databricks, Snowflake - $2M+/year)
 
     Too complex (DIY with 20+ tools that don't integrate)
